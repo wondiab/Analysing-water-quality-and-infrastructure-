@@ -27,4 +27,14 @@ The project has the following tables:
 
 1. **Project Tracking**: Automatically updates improvement recommendations based on water quality results and queue times.
 2. **Employee Performance**: Monitors employee performance by tracking discrepancies between auditor and surveyor assessments.
-3. 
+3.  **Infrastructure Recommendations**: Generates specific infrustructure improvement actions based on data (e.g., installing additional taps for long queues)
+
+## How to Run the Project
+
+1. Import the SQL files provided in the `/sql` directory.
+2. Populate the database with sample data, following the instructions in `data_loading.sql`
+3. Execute the query files to generate views, track progress and analyze data.
+
+## Access the Full Documentation
+
+For more details, visit our [project documentation]
