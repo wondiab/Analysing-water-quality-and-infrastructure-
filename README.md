@@ -2,7 +2,7 @@
 
 This project focuses on analysing water quality data, infrastructure imporovements, and employee performance for water sources in various locations. The project uses SQL to join and filter data across multiple tables, identify problematic sources, and track project progress.
 
-![Project Overview](.Images/Wondirad.jpg)
+![Project Overview](.Images/MD_Map.png))
 
 ## Project Overview
 
@@ -37,4 +37,4 @@ The project has the following tables:
 
 ## Access the Full Documentation
 
-For more details, visit our [project documentation]
+Dataset was provided by ALX [project documentation](https://ALX.com)
