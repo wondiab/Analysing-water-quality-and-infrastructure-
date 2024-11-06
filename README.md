@@ -15,4 +15,16 @@ The analysis is centered on:
 
 ## Database Structure
 
+The project has the following tables:
 
+- **`visits`**: Contains information on visits to each water source, including queue times and assigned employees.
+- **`well_pollution`**: Tracks pollution results for well water sources.
+- **`water_source`**: Stores metadata on water source, including type and population served.
+- **`location`**: Stores location_specific information, including town, province, and adress.
+- **`Project_progress`**: Tracks improvement projects for each source, including status and comments.
+
+## Key Features
+
+1. **Project Tracking**: Automatically updates improvement recommendations based on water quality results and queue times.
+2. **Employee Performance**: Monitors employee performance by tracking discrepancies between auditor and surveyor assessments.
+3. 
